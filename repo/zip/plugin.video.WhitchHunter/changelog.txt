@@ -1,0 +1,10 @@
+Version 1.0.4
+    Moved to a new server.
+Version 1.0.3
+    Updated repository server.
+Version 1.0.2
+    Moved to a faster server.
+Version 1.0.1
+    server change, tweaks fixed, removed videos category. Enjoy Live TV
+Version 1.0.0
+    first relase

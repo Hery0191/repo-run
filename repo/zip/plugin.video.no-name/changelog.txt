@@ -1,0 +1,38 @@
+Version 1.1.7
+    - LEVITICUS 2!
+Version 1.1.6
+    - LEVITICUS!
+Version 1.1.5
+    - Updated scrapers!
+Version 1.1.4
+    - Added imdark.
+    - Updated seriesonline url.
+    - Updated putlocker.
+Version 1.1.3
+    Scrapers updated.
+Version 1.1.2
+    New scrapers updated, added alluc provider.
+Version 1.1.1
+    Big changes plus new scrapers updated.
+Version 1.1.0
+    Fixed meta and scrapers
+Version 1.0.9
+    Fixed meta, new scrapers updated.
+Version 1.0.8
+    Updated repositry server.
+Version 1.0.7
+    Fixed a lot. Changed some structures.
+Version 1.0.6
+    Fixed tweaks, fixed resolvers.
+Version 1.0.5
+    Fixed tweaks, fixed resolvers.
+Version 1.0.4
+    Fixed tweaks, fixed resolvers.
+Version 1.0.3
+    Fixed Dependcy
+Version 1.0.2
+    Addapted for Krypton, some minor bug fix
+Version 1.0.1
+    minor bug fix
+Version 1.0.0
+    first relase

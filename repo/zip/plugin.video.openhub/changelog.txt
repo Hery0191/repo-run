@@ -1,0 +1,6 @@
+v1.0.2
+Multiple links pick up
+v1.0.1
+Added meta module, cleaned scrape,fixed non-meta art
+v1.0.0
+Initial Release
