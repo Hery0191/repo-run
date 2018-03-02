@@ -23,7 +23,7 @@
 
 <addon id="plugin.video.aloe"
        name=" [COLOR red]Albania[/COLOR] [COLOR yellow]Land[/COLOR] of [COLOR royalblue]Eagles[/COLOR]"
-       version="1.0.5"
+       version="1.0.6"
        provider-name="[COLOR red][B]C0LD[/B][/COLOR][COLOR royalblue][B]FIRE[/B][/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -35,7 +35,7 @@
     <import addon="script.module.liveresolver" version="0.1.24"/>
     <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="plugin.video.youtube" version="5.4.0"/>
-    <import addon="script.module.urlresolver" version="3.0.30"/>
+    <import addon="script.module.resolveurl" version="5.0.00"/>
     <import addon="script.module.simplejson" />    
     <import addon="script.module.livestreamer" version="1.12.0"/>
     <import addon="script.module.pyamf" optional="true"/>
